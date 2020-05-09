@@ -11,17 +11,6 @@ occurs exactly once. In other words, if the character at some index in occurs at
 in , then do not include the character in string.
 Given and , print lines where each line denotes string.
 
-**Input Format**
-The first line contains a single string denoting.
-The second line contains an integer, , denoting the length of each subsegment.
-**Constraints**
-
-```
-, where is the length of
-```
-
-It is guaranteed that is a multiple of.
-**Output Format**
 Print lines where each line contains string.
 
 **Sample Input**
